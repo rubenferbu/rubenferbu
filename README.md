@@ -51,7 +51,7 @@ Soy un desarrollador Junior apasionado por **el aprendizaje y ver dónde me llev
 
 ## 📫 Conéctate conmigo
 
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?logo=linkedin&logoColor=white&style=flat-square)](https://www.linkedin.com/in/rub%C3%A9nfern%C3%A1ndezbuz%C3%B3n/)
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?logo=linkedin&logoColor=white&style=flat-square)](https://http://www.linkedin.com/in/rub%C3%A9nfern%C3%A1ndezbuz%C3%B3n)
 <!--
 [![Twitter](https://img.shields.io/badge/-Twitter-1DA1F2?logo=twitter&logoColor=white&style=flat-square)](https://twitter.com/tuusuario)
 [![Portfolio](https://img.shields.io/badge/-Portfolio-000?logo=vercel&logoColor=white&style=flat-square)](https://tuportafolio.com)
