@@ -15,13 +15,12 @@ jobs:
 
       - name: Update README
         run: |
-          # Aquí puedes añadir comandos para actualizar el README si es necesario
-          # Por ejemplo, si usas un script para generar contenido dinámico
+          # Las estadísticas se actualizan automáticamente
           echo "Las estadísticas se actualizarán automáticamente."
 
       - name: Commit and push changes
         run: |
-          git config --global user.name "Rubén Fernández Buzón"
+          git config --global user.name "Rubén Fernández"
           git config --global user.email "rubenferbu@gmail.com"
           git add README.md
           git commit -m "Actualización automática de estadísticas"
