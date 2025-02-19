@@ -3,7 +3,7 @@
 # 👋 ¡Hola! Soy Rubén Fernández 
 
 [![GitHub followers](https://img.shields.io/github/followers/rubenferbu?style=social)](https://github.com/rubenferbu)
-[![Twitter Follow](https://img.shields.io/twitter/follow/tuusuario?style=social)](https://twitter.com/tuusuario)
+[![Twitter Follow](https://img.shields.io/twitter/follow/BuzonRuben?style=social)]([https://twitter.com/tuusuario](https://x.com/BuzonRuben))
 
 Soy un desarrollador Junior apasionado por **el aprendizaje y ver dónde me lleva esta nueva etapa**. Me encanta crear soluciones innovadoras y compartir conocimientos con la comunidad.
 
