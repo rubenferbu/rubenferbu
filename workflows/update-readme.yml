@@ -1,0 +1,28 @@
+name: Update README
+
+on:
+  schedule:
+    - cron: '0 0 * * *'  # Se ejecuta todos los días a medianoche (UTC)
+  workflow_dispatch:  # Permite ejecutar manualmente
+
+jobs:
+  update-readme:
+    runs-on: ubuntu-latest
+
+    steps:
+      - name: Checkout repository
+        uses: actions/checkout@v3
+
+      - name: Update README
+        run: |
+          # Aquí puedes añadir comandos para actualizar el README si es necesario
+          # Por ejemplo, si usas un script para generar contenido dinámico
+          echo "Las estadísticas se actualizarán automáticamente."
+
+      - name: Commit and push changes
+        run: |
+          git config --global user.name "Rubén Fernández Buzón"
+          git config --global user.email "rubenferbu@gmail.com"
+          git add README.md
+          git commit -m "Actualización automática de estadísticas"
+          git push

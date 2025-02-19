@@ -45,7 +45,7 @@ Soy un desarrollador Junior apasionado por **el aprendizaje y ver dónde me llev
 
 ## 📊 Estadísticas de GitHub
 
-![Tu Usuario's GitHub Stats](https://github-readme-stats.vercel.app/api?username=tuusuario&show_icons=true&theme=radical)
+![Tu Usuario's GitHub Stats](https://github-readme-stats.vercel.app/api?username=rubenferbu&show_icons=true&theme=radical)
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=tuusuario&layout=compact&theme=radical)
 
